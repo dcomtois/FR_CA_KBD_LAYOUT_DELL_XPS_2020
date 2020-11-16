@@ -5,4 +5,6 @@ Download the Zip file, extract and run setup to install the Canadian French keyb
 
 Télécharger l'archive Zip, l'extraire, puis exécuter `setup.exe` pour installer le layout Canadien Français avec la fonctionnalité additionnelle AltGr-z pour `«` et AltGr-x pour `»`.
 
+Created with Microsoft Keyboard Layout Creator 1.4.
+
 D. Comtois, 2020
