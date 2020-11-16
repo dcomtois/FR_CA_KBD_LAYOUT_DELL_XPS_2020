@@ -1,7 +1,9 @@
 # FR_CA_KBD_LAYOUT_DELL_XPS_2020
 A Functional logical keyboard layout for Dell XPS family (2019-2020) in MS Windows
 
-This is no standard keyboard. Using the usual "Canadian French" layout in Windows, there is no way to produce the `«` and `»` characters.
+This is no standard keyboard. Using the usual "Canadian French" layout in Windows, there is no way to produce the `«` and `»` characters, as there is usually a dedicated key for these characters, located between the left shift and the z key.
+
+![Keyboard Image](/FR_CA.png)
 
 With this proposed "Canadian French - XPS bilingual", AltGr-z will produce '«' and AltGr-x will produce '»', as intended (I suppose).
 
