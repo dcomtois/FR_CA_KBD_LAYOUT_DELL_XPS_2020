@@ -8,3 +8,5 @@ Télécharger l'archive Zip, l'extraire, puis exécuter `setup.exe` pour install
 Created with Microsoft Keyboard Layout Creator 1.4.
 
 D. Comtois, 2020
+
+ref: https://www.dell.com/community/XPS/The-missing-logical-keyboard-layout-for-French-Canadian-on-newer/td-p/7739089
